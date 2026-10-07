@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gyeongbin-38.github.io/zerofactory-notes/sitemap.xml
